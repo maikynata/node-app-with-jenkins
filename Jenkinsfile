@@ -18,6 +18,7 @@ pipeline {
     stage('Test Script') {
       steps {
          sh './script/test'
+         echo "teste 1"
       }
     }      
   }
