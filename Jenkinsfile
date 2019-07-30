@@ -15,7 +15,7 @@ pipeline {
       }
     }
      
-    stage('Echo Test') {
+    stage('Test Script') {
       steps {
          sh './script/test'
       }
