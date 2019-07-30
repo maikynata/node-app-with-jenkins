@@ -15,7 +15,7 @@ pipeline {
       }
     }
      
-    stage('Test') {
+    stage('Echo Test') {
       steps {
          echo "Pipeline with Jenkinsfile"
       }
