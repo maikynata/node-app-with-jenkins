@@ -15,10 +15,10 @@ pipeline {
       }
     }
      
-    stage('Test Script Pull') {
+    stage('Test Script Pull 2') {
       steps {
          sh './script/test'
-         echo "teste pull"
+         echo "teste pull 2"
       }
     }      
   }
