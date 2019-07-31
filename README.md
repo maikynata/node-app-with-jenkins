@@ -1,6 +1,6 @@
 # Node App Pipeline with Jenkins
 
-This is a simple laboratory to learn How to set up CI/CD Pipeline for a Node.js App with Jenkins.
+This is a simple laboratory to learn how to set up CI/CD Pipeline for a Node.js App with Jenkins.
 
 The code is based on following howtos:
 
